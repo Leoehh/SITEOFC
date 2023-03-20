@@ -4,3 +4,8 @@ header{
     color: #FFFFFF
 
 }
+
+.cabeçalho-lista-item{
+
+display: flex;
+}
