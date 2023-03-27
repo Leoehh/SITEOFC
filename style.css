@@ -1,12 +1,28 @@
+*{
+
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
 header{
 
     background-color: #000000;
-    color: #FFFFFF
+    color: #FFFFFF;
+
+    display: flex;
+justify-content: space-around;
+padding: 24px 0;
+font-size: 24;
+
 
 }
 
 .cabeçalho-lista-item{
 
-display: flex;
-justify-content: space-around;
+display: inline-block;
+margin: 0 16px;
+
 }
